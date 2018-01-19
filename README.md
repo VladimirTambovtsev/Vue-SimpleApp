@@ -15,4 +15,4 @@ npm run dev
 npm run build
 ```
 
-Demo is <a href="https://vue-random-serials.firebaseapp.com/">here</a>
+Demo <a href="https://vue-random-serials.firebaseapp.com/">https://vue-random-serials.firebaseapp.com/</a>
